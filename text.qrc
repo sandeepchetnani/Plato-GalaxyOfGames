@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>dino.jpg</file>
+    <file>rps.jpeg</file>
+    <file>flappy.jpg</file>
+    <file>aero.png</file>
+    <file>text.qrc</file>
+    <file>pong.jpg</file>
+    <file>memory.png</file>
+    <file>angrybird.png</file>
+    <file>tetris.jpeg</file>
+    <file>snake1.jpg</file>
+    <file>5.jpg</file>
+    <file>ttt.png</file>
+    <file>ludo.jpg</file>
+    <file>cr.jpg</file>
+    <file>gs.jpg</file>
+  </qresource>
+</RCC>
